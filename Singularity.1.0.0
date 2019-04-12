@@ -29,7 +29,7 @@ From: pndni/centos7-base:1.4.0
 
 %labels
     Maintainer Steven Tilley
-    Version dev
+    Version 1.0.0
     FreeSurfer_License https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferSoftwareLicense
     FreeSurfer_URL https://surfer.nmr.mgh.harvard.edu/
     FreeSurfer_Version 6.0.1
